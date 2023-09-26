@@ -1,0 +1,5 @@
+event.deviceEventClassId,set.event.categoryObject,set.event.categoryBehavior,set.event.categoryTechnique,set.event.categoryOutcome,set.event.categorySignificance,set.event.categoryDeviceGroup,set.event.categoryDeviceType
+NormalTransac,/Host/Application/Service/Email,/Communicate,,/Success,/Normal,/Assessment Tools,Mail
+BouncedBackTransac,/Host/Application/Service/Email,/Communicate,,/Failure,/Normal,/Assessment Tools,Mail
+TransacToBeSplit,/Host/Application/Service/Email,/Communicate,,/Success,/Normal,/Assessment Tools,Mail
+QuarantineTransac,/Host/Application/Service/Email,/Communicate,,/Success,/Informational/Warning,/Assessment Tools,Mail
