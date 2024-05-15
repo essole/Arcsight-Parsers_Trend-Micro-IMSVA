@@ -4,4 +4,4 @@ These parsers are Arcsight Flexconnector Regex File type configurations files. T
 
 For futher undertanding of the configurations that must be done during the installation of the flexconnector, please refer to Arcsight Flexconnector official dev guide document.
 
-Note that about event categorization I also provided the required CSV file located in the directory acp. I recommend replacing this acp directory with the one in the installation directory of your flexconnector just as is.
+Note that about event categorization I also provided the required CSV file located in the directory acp. I recommend replacing the acp directory in the installation directory of your flexconnector with the one provided by this repository just as is.
